@@ -1,3 +1,5 @@
+Se migro la aplicación de spotify que esta en otro github propia a esta
+
 # SpotifyCloneB-JosephPuma
 
 https://i.scdn.co/image/ab6775700000ee8585a9b6bc16067f053f611a7d
